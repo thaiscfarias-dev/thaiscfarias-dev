@@ -50,7 +50,7 @@ I enjoy learning new technologies, solving complex problems, and designing scala
 
 📚 Keep learning and growing every day
 
-###📫 Let's Connect
+### 📫 Let's Connect
 [farias.thais@uol.com.br](mailto:farias.thais@uol.com.br)
 
 "Turning curiosity into cloud solutions." ☁️✨
