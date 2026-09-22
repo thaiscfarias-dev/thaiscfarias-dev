@@ -4,7 +4,7 @@
 
 🧙‍♀️ Turning infrastructure into magic with AWS
 
-💻 Former Front-End Developer
+💻 Former Fullstack Developer
 
 📈 Analytical mindset from Financial Markets
 
@@ -12,7 +12,7 @@
 
 ---
 
-From Front-End Development to Cloud Computing 🚀
+From Fullstack Development to Cloud Computing 🚀
 
 After working in software development and building analytical skills in the financial market, I am now focused on transitioning into the world of Cloud Computing with AWS.
 
