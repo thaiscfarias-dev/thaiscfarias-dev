@@ -32,7 +32,7 @@ I enjoy learning new technologies, solving complex problems, and designing scala
 
 ### 💼 Background
 
-💻 Front-End Development (React & JavaScript)
+💻 Fullstack Development 
 
 📈 Financial Markets & Risk Analysis
 
